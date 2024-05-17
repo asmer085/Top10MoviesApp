@@ -1,3 +1,10 @@
+## How to run the app
+
+1. Install dependencies with `npm install`.
+2. Build the app with `npm run build`.
+3. Serve the app with `npm run serve`.
+4. Open your browser and go to `http://localhost:3000`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

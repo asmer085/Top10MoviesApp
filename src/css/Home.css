@@ -1,0 +1,45 @@
+.home {
+    padding: 20px;
+    display:inline-block;
+  }
+  
+  .tabs {
+    display: flex;
+    /*justify-content: space-between;*/
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Change this to 2 */
+    gap: 70px;
+  }
+  
+  .item {
+    border: 1px solid #ddd;
+    border-radius: 10px; /* Add some border radius */
+    overflow: hidden; /* This makes sure the image also gets rounded corners */
+    text-align: center;
+    transition: transform 0.3s; /* Add a transition for hover effect */
+  }
+  
+  .item:hover {
+    transform: scale(1.05); /* Scale the item up on hover */
+  }
+  
+  .item img {
+    width: 60%;
+    height: auto;
+  }
+  
+  .item h2 {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+
+  .search {
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  

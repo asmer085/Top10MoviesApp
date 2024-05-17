@@ -1,0 +1,17 @@
+.details {
+    padding: 20px;
+    text-align: center;
+    display:inline-block;
+    max-width: 80em;
+    position: relative;
+  }
+  
+  .details img {
+    width: auto;
+  }
+  .details .back-button {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
