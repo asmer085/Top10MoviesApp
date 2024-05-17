@@ -1,7 +1,7 @@
 ## How to run the app
 
 1. Install dependencies with `npm install`.
-2. In the root of the repository, create file named .env and copy this line of code: REACT_APP_API_KEY=e44180a54a8d8f7be24da35f615fdbb9
+2. In the root of the repository, create file named .env and copy this line of code: REACT_APP_API_KEY=YOUR_API_KEY
 (instead of "YOUR_API_KEY" type in your actual api key that you have on https://developer.themoviedb.org)
 3. Run the app with `npm start`.
 4. Build the app with `npm run build`.
