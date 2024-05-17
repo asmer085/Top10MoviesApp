@@ -1,9 +1,10 @@
 ## How to run the app
 
 1. Install dependencies with `npm install`.
-2. Build the app with `npm run build`.
-3. Serve the app with `npm run serve`.
-4. Open your browser and go to `http://localhost:3000`.
+2. Run the app with `npm start`.
+3. Build the app with `npm run build`.
+4. Serve the app with `npm run serve`.
+5. Open your browser and go to `http://localhost:3000`.
 
 # Getting Started with Create React App
 
